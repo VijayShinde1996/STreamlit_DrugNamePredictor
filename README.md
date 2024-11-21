@@ -1,39 +1,30 @@
 # NLP Model Deployment on Streamlit Cloud
+
 This repository contains a step-by-step guide to creating a Natural Language Processing (NLP) model and deploying it on Streamlit Cloud using Python and GitHub.
 
-Overview
+## Overview
+
 This project demonstrates:
 
-Data Loading & EDA
-Text Preprocessing & Word to Vector Conversion
-Model Selection & Training
-Model Evaluation
-Saving the Model & Vectorizer Files
-Streamlit UI Creation
-Deploying on Streamlit Community Cloud
-For a detailed explanation, check out the blog post on Medium (Replace # with the blog link).
+- **Data Loading & EDA**: Analyzing and preparing data for modeling.
+- **Text Preprocessing & Word to Vector Conversion**: Cleaning text data and transforming it into a vectorized format.
+- **Model Selection & Training**: Building and training the model for predictions.
+- **Model Evaluation**: Assessing the model's performance.
+- **Saving the Model & Vectorizer Files**: Storing trained models for future use.
+- **Streamlit UI Creation**: Designing a user interface for interaction.
+- **Deploying on Streamlit Community Cloud**: Making the app accessible online.
 
-Installation
-Clone this repository:
-bash
-Copy code
-git clone [https://github.com/your-username/your-repo-name](https://github.com/VijayShinde1996/STreamlit_DrugNamePredictor.git
-Navigate to the project folder:
-bash
-Copy code
-cd your-repo-name
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Run the App Locally
-Ensure the model and vectorizer files (sentiment_model.pkl and vectorizer.pkl) are in the project directory.
-Start the Streamlit app:
-bash
-Copy code
-streamlit run streamlit_app.py
-Open your browser and navigate to http://localhost:8501.
-Try the Deployed App
-Access the deployed app on Streamlit Cloud here: [Deployed App Link (Replace # with your Streamlit app URL)](https://vrsfoundationsdrugnamepredictorapp.streamlit.app/).
-Access the deployed app Blog here: [https://medium.com/@shindevijay595/how-to-create-an-nlp-model-and-deploy-it-on-streamlit-cloud-using-github-07f164abda5c](https://medium.com/@shindevijay595/how-to-create-an-nlp-model-and-deploy-it-on-streamlit-cloud-using-github-07f164abda5c).
+For a detailed explanation, check out the blog post on Medium: [How to Create an NLP Model and Deploy It on Streamlit Cloud Using GitHub](https://medium.com/@shindevijay595/how-to-create-an-nlp-model-and-deploy-it-on-streamlit-cloud-using-github-07f164abda5c).
+
+---
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/VijayShinde1996/STreamlit_DrugNamePredictor.git
+2. Deploy or run locally:  streamlit run streamlit_app.py
+   
+3.Try the Deployed App
+Access the deployed app on Streamlit Cloud here: Deployed App Link: [https://vrsfoundationsdrugnamepredictorapp.streamlit.app/](https://vrsfoundationsdrugnamepredictorapp.streamlit.app/)
+Read the detailed blog post here: How to Create an NLP Model and Deploy It on Streamlit Cloud Using GitHub.: [https://medium.com/@shindevijay595/how-to-create-an-nlp-model-and-deploy-it-on-streamlit-cloud-using-github-07f164abda5c](https://medium.com/@shindevijay595/how-to-create-an-nlp-model-and-deploy-it-on-streamlit-cloud-using-github-07f164abda5c)
