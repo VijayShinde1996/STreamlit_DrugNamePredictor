@@ -21,6 +21,8 @@ This project demonstrates:
    ```bash
    git clone https://github.com/VijayShinde1996/STreamlit_DrugNamePredictor.git
 2. Deploy or run locally:  streamlit run streamlit_app.py
+      ```bash
+   streamlit run streamlit_app.py
    
 3.Try the Deployed App
 - **Access the deployed app on Streamlit Cloud here: Deployed App Link: [https://vrsfoundationsdrugnamepredictorapp.streamlit.app/](https://vrsfoundationsdrugnamepredictorapp.streamlit.app/)
