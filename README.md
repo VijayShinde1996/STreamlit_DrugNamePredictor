@@ -19,7 +19,7 @@ This project demonstrates:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/VijayShinde1996/STreamlit_DrugNamePredictor.git
+   git clone [https://github.com/VijayShinde1996/STreamlit_DrugNamePredictor.git](https://github.com/VijayShinde1996/STreamlit_DrugNamePredictor.git)
 2. Deploy or run locally:  streamlit run streamlit_app.py
    
 3.Try the Deployed App
