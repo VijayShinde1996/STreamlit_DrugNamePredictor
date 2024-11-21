@@ -13,9 +13,6 @@ This project demonstrates:
 - **Saving the Model & Vectorizer Files**: Storing trained models for future use.
 - **Streamlit UI Creation**: Designing a user interface for interaction.
 - **Deploying on Streamlit Community Cloud**: Making the app accessible online.
-
-For a detailed explanation, check out the blog post on Medium: [How to Create an NLP Model and Deploy It on Streamlit Cloud Using GitHub](https://medium.com/@shindevijay595/how-to-create-an-nlp-model-and-deploy-it-on-streamlit-cloud-using-github-07f164abda5c).
-
 ---
 
 ## Installation
@@ -26,5 +23,5 @@ For a detailed explanation, check out the blog post on Medium: [How to Create an
 2. Deploy or run locally:  streamlit run streamlit_app.py
    
 3.Try the Deployed App
-Access the deployed app on Streamlit Cloud here: Deployed App Link: [https://vrsfoundationsdrugnamepredictorapp.streamlit.app/](https://vrsfoundationsdrugnamepredictorapp.streamlit.app/)
-Read the detailed blog post here: How to Create an NLP Model and Deploy It on Streamlit Cloud Using GitHub.: [https://medium.com/@shindevijay595/how-to-create-an-nlp-model-and-deploy-it-on-streamlit-cloud-using-github-07f164abda5c](https://medium.com/@shindevijay595/how-to-create-an-nlp-model-and-deploy-it-on-streamlit-cloud-using-github-07f164abda5c)
+- **Access the deployed app on Streamlit Cloud here: Deployed App Link: [https://vrsfoundationsdrugnamepredictorapp.streamlit.app/](https://vrsfoundationsdrugnamepredictorapp.streamlit.app/)
+- **Read the detailed blog post here: How to Create an NLP Model and Deploy It on Streamlit Cloud Using GitHub.: [https://medium.com/@shindevijay595/how-to-create-an-nlp-model-and-deploy-it-on-streamlit-cloud-using-github-07f164abda5c](https://medium.com/@shindevijay595/how-to-create-an-nlp-model-and-deploy-it-on-streamlit-cloud-using-github-07f164abda5c)
